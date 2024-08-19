@@ -45,17 +45,17 @@ Here’s a breakdown of the hardware components used in this project:
 
 ### Circuit Schematic:
 <p align="center">
-  <img src="./images/circuit.png" width="500" height="auto/>
+  <img src="./images/circuit.png"/>
 </p>
 <p align="center">
-  <b>Figure 1: Image of the hardware circuit diagram</b>
+  <b>Figure 2: This figure shows the circuit diagram of a single microphone connection used for the project. Two more of this circuit was built for the completion of the project.</b>
 </p>
 
 <p align="center">
   <img src="./images/bypass.png"/>
 </p>
 <p align="center">
-  <b>Figure 1: Image of the project bypass circuit diagrm</b>
+  <b>Figure 3:  This figure shows the circuitry for the bypass capacitor used for noise filtering in the project.</b>
 </p>
 
 ## 🎛️ Software Capabilities
@@ -66,6 +66,13 @@ The software is designed to handle the audio processing requirements and provide
 - **Continuous Signal Processing**: The microphones' inputs are continuously processed at a combined conversion rate of 1 Msps.
 - **Time Difference of Arrival (TDoA)**: Calculates TDoA to determine the angle of arrival.
 - **Event Detection**: Identifies and processes sound events in real-time.
+
+<p align="center">
+  <img src="./images/notes.png"/>
+</p>
+<p align="center">
+  <b>Figure 3:  This figure shows the process used for calculating the aoa in the project.</b>
+</p>
 
 ### Command Line Interface:
 - **Threshold Adjustment**: Set or view the minimum detection threshold.
