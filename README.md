@@ -44,14 +44,14 @@ Here’s a breakdown of the hardware components used in this project:
 - **PCB**: 80x120cm FR4 PC board with careful layout considerations to minimize noise
 
 ### Circuit Schematic:
-![Circuit Diagram]<p align="center">
-  <img src="./images/circuit.png"/>
+<p align="center">
+  <img src="./images/circuit.png" width="500" height="auto/>
 </p>
 <p align="center">
   <b>Figure 1: Image of the hardware circuit diagram</b>
 </p>
 
-<p>
+<p align="center">
   <img src="./images/bypass.png"/>
 </p>
 <p align="center">
