@@ -5,8 +5,7 @@
 This project focuses on designing a low-cost, low-power device capable of solving the Angle of Arrival (AoA) problem using a resource-constrained microcontroller. The results of this project are not just theoretical—our device was successfully implemented to accurately determine the direction of a sound source in real-time.
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG1sYnRhbDdjMnZ6cnkzd3o1YmdnMXJyZzh0eXBkajRqZHFkeTVjcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4NveYsodRtoPuUe6o2/giphy.webp
-"/>
+  <img src="https://media4.giphy.com/media/4NveYsodRtoPuUe6o2/giphy.webp"/>
 </p>
 
 ## 📑 Table of Contents
@@ -30,7 +29,12 @@ The device is equipped with a command-line interface, allowing users to interact
 - **Efficient Resource Utilization**: Implemented on a resource-constrained microcontroller, proving that complex problems can be solved with minimal hardware.
 
 ## 🛠️ Hardware Setup
-
+<p align="center">
+  <img src="./images/hardware2.png"/>
+</p>
+<p align="center">
+  <b>Figure 1: Image of the project hardware</b>
+</p>
 Here’s a breakdown of the hardware components used in this project:
 
 - **Microcontroller**: ARM M4F core (TM4C123GH6PMI)
@@ -40,7 +44,19 @@ Here’s a breakdown of the hardware components used in this project:
 - **PCB**: 80x120cm FR4 PC board with careful layout considerations to minimize noise
 
 ### Circuit Schematic:
-![Circuit Diagram](https://user-images.githubusercontent.com/example.png)
+![Circuit Diagram]<p align="center">
+  <img src="./images/circuit.png"/>
+</p>
+<p align="center">
+  <b>Figure 1: Image of the hardware circuit diagram</b>
+</p>
+
+<p>
+  <img src="./images/bypass.png"/>
+</p>
+<p align="center">
+  <b>Figure 1: Image of the project bypass circuit diagrm</b>
+</p>
 
 ## 🎛️ Software Capabilities
 
