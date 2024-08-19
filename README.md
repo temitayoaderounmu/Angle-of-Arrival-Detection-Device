@@ -67,11 +67,13 @@ The software is designed to handle the audio processing requirements and provide
 - **Time Difference of Arrival (TDoA)**: Calculates TDoA to determine the angle of arrival.
 - **Event Detection**: Identifies and processes sound events in real-time.
 
+
+
 <p align="center">
   <img src="./images/notes.png"/>
 </p>
 <p align="center">
-  <b>Figure 3:  This figure shows the process used for calculating the aoa in the project.</b>
+  <b>Figure 4:  This figure shows the process used for calculating the aoa in the project.</b>
 </p>
 
 ### Command Line Interface:
