@@ -4,7 +4,7 @@
 
 This project focuses on designing a low-cost, low-power device capable of solving the Angle of Arrival (AoA) problem using a resource-constrained microcontroller. The results of this project are not just theoretical—our device was successfully implemented to accurately determine the direction of a sound source in real-time.
 
-![Project Demo](https://media.giphy.com/media/xUPGcJhEOMnXO5Xg8k/giphy.gif)
+![Project Demo]([https://media.giphy.com/media/xUPGcJhEOMnXO5Xg8k/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG1sYnRhbDdjMnZ6cnkzd3o1YmdnMXJyZzh0eXBkajRqZHFkeTVjcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4NveYsodRtoPuUe6o2/giphy.webp))
 
 ## 📑 Table of Contents
 - [🌟 Project Overview](#-project-overview)
