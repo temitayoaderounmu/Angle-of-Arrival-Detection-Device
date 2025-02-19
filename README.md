@@ -1,4 +1,4 @@
-# Sound-System-Device
+# Angle-of-Arrival-Detection-Device
 
 # 🎯 Angle of Arrival (AoA) Project
 
